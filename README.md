@@ -122,6 +122,7 @@
 - [Taehyun Hwang](https://github.com/HwangTaehyun/HwangTaehyun)
 
 #### A Little Bit of Everything 😃
+- [Legendary Person](https://github.com/Legendary-Person/Legendary-Person/Legendary-Person)
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
 - [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
 - [Adam Alston](https://github.com/adamalston/adamalston)
