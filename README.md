@@ -84,6 +84,7 @@
 - [itgoyo](https://github.com/itgoyo/itgoyo)
 - [lifeparticle](https://github.com/lifeparticle/lifeparticle)
 - [Nathaniel Chitnis](https://github.com/nhelchitnis/nhelchitnis)
+  
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
 - [Ben Sampica](https://github.com/benjaminsampica/benjaminsampica)
