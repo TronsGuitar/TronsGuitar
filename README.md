@@ -52,8 +52,8 @@
 ## Categories
 
 #### GitHub Actions 🤖
-- [Abhishek Verma](https://github.com/abhishekayu/abhishekayu)
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
+- [Abhishek Verma](https://github.com/abhishekayu/abhishekayu)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
