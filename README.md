@@ -25,28 +25,29 @@
 </div>
 
 ### Contents:
-  - [Categories](#categories)
-      - [GitHub Actions 🤖](#github-actions-)
-      - [Game Mode 🚀](#game-mode-)
-      - [Code Mode 👨🏽‍💻](#code-mode-)
-      - [Dynamic Realtime 💫](#dynamic-realtime-)
-      - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
-      - [Descriptive 🗒](#descriptive-)
-      - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
-      - [Typing.. Mode 🎰](#typing-mode-)
-      - [Anime 👾](#anime-)
-      - [Minimalistic ✨](#minimalistic-)
-      - [GIFS 👻](#gifs-)
-      - [Just Images 🎭](#just-images-)
-      - [Badges 🎫](#badges-)
-      - [Fancy Fonts 🖋](#fancy-fonts-)
-      - [Icons 🎯](#icons-)
-      - [Retro 😎](#retro-)
-  - [Tools](#tools)
-  - [Articles](#articles)
-  - [Video Tutorials](#tutorials)
-  - [Contribute](#contribute)
-  - [License](#license)
+- [Categories](#categories)
+    - [GitHub Actions 🤖](#github-actions-)
+    - [Game Mode 🚀](#game-mode-)
+    - [Code Mode 👨🏽‍💻](#code-mode-)
+    - [Dynamic Realtime 💫](#dynamic-realtime-)
+    - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
+    - [Descriptive 🗒](#descriptive-)
+    - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
+    - [Typing.. Mode 🎰](#typing-mode-)
+    - [Anime 👾](#anime-)
+    - [Minimalistic ✨](#minimalistic-)
+    - [GIFS 👻](#gifs-)
+    - [Just Images 🎭](#just-images-)
+    - [Badges 🎫](#badges-)
+    - [Fancy Fonts 🖋](#fancy-fonts-)
+    - [Icons 🎯](#icons-)
+    - [Retro 😎](#retro-)
+- [Tools](#tools)
+- [Articles](#articles)
+- [Tutorials](#tutorials)
+- [Contribute](#contribute)
+- [Special Thanks 🙇](#special-thanks-)
+- [License](#license)
 
 
 ## Categories
@@ -83,6 +84,7 @@
 - [codeSTACKr](https://github.com/codestackr/codestackr)
 - [itgoyo](https://github.com/itgoyo/itgoyo)
 - [lifeparticle](https://github.com/lifeparticle/lifeparticle)
+- [Wanghley](https://github.com/Wanghley)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
@@ -120,6 +122,7 @@
 - [Dani Akash](https://github.com/daniakash/daniakash)
 - [Rahul Jha](https://github.com/rahul-jha98/rahul-jha98)
 - [Taehyun Hwang](https://github.com/HwangTaehyun/HwangTaehyun)
+- [Wanghley](https://github.com/Wanghley)
 
 #### A Little Bit of Everything 😃
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
@@ -141,6 +144,7 @@
 - [Rak Laptudirm](https://github.com/raklaptudirm/raklaptudirm)
 - [Trini B](https://github.com/trinib/trinib)
 - [holic-x](https://github.com/holic-x/holic-x)
+- [Wanghley](https://github.com/Wanghley)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
@@ -153,6 +157,7 @@
 - [Vidur Satija](https://github.com/vidursatija/vidursatija)
 - [Dani El-Ayyass](https://github.com/dayyass/dayyass)
 - [Nanra Sukedy](https://github.com/Nanra/Nanra)
+- [Wanghley](https://github.com/Wanghley)
 
 #### Simple but Innovative Ones 🤗
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
@@ -259,6 +264,7 @@
 - [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat)
 - [Nikita Rusetskii](https://github.com/xtenzQ/xtenzQ)
 - [Raphael Ebner](https://github.com/rafi0101/rafi0101)
+- [Wanghley](https://github.com/Wanghley)
 
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
