@@ -141,6 +141,7 @@
 - [Rak Laptudirm](https://github.com/raklaptudirm/raklaptudirm)
 - [Trini B](https://github.com/trinib/trinib)
 - [holic-x](https://github.com/holic-x/holic-x)
+- [eugene4545](https://github.com/eugene4545/eugene4545)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
