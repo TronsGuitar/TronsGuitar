@@ -169,6 +169,7 @@
 - [Lucas Vazquez](https://github.com/lucasvazq/lucasvazq)
 - [小弟调调™](https://github.com/jaywcjlove/jaywcjlove)
 - [alx365](https://github.com/alx365/alx365)
+- [vendelieu](https://github.com/vendelieu/vendelieu)
 - [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
 - [一缕殇流化隐半边冰霜](https://github.com/halfrost/halfrost)
 - [Srihari Kapu](https://github.com/sriharikapu/sriharikapu)
