@@ -143,6 +143,7 @@
 - [holic-x](https://github.com/holic-x/holic-x)
 
 #### Descriptive 🗒
+- [Kamenskikh Valeriy](https://github.com/neon4on/neon4on)
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
 - [Garima Singh](https://github.com/garimasingh128/garimasingh128)
 - [lizheming](https://github.com/lizheming/lizheming)
