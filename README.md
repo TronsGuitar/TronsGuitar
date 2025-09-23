@@ -1,28 +1,24 @@
 # Hi there, I'm TronsGuitar! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for music and technology. Here's a bit more about me:
+Welcome to my GitHub profile. I blend 25+ years of experience in software engineering and modernization with a lifelong passion for music and creativity. From building custom transpilers to composing guitar riffs, I enjoy solving hard problems and creating things that last.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on various open-source projects.
-- 🌱 I’m currently learning advanced algorithms and data structures.
-- 👯 I’m looking to collaborate on interesting projects that make an impact.
-- 🤔 I’m looking for help with machine learning projects.
-- 💬 Ask me about Python, JavaScript, and web development.
-- 📫 How to reach me: [Your Email](mailto:your.email@example.com)
-- ⚡ Fun fact: I play the guitar and love to compose music in my free time.
+- 🔭 Currently focusing on enterprise modernization, cloud-native platforms, and open-source projects.  
+- 🌱 Learning advanced AI/ML techniques and orchestration frameworks.  
+- 👯 Open to collaborating on impactful modernization, security, and developer tooling projects.  
+- 💬 Ask me about C#, .NET, SQL, Azure, AWS GovCloud, CI/CD, and legacy-to-modern transformations.  
+- 📫 Reach me at: [brianbass@outlook.com](mailto:brianbass@outlook.com)  
+- ⚡ Fun fact: I built one of the first national carpooling networks (RideSearch.com), named a *Top 100 Website* by *Women’s Health Magazine* — and yes, I still play a mean left-handed guitar.  
 
 ## 🛠️ Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
+- C#, .NET, SQL Server  
+- Azure, AWS GovCloud  
+- React, Node.js, JavaScript/TypeScript  
+- Python  
+- Git, GitHub  
+- VS Code  
 
 ## 📈 GitHub Stats
 
@@ -30,14 +26,13 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for music a
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/brianaldenbass)  
+- [Twitter](https://twitter.com/leftyluminary)  
+- [Personal Website](https://left-handedluminary.com)  
 
-## 🎸 Music Projects
+## 🎸 Music + Code
 
-Apart from coding, I love to play the guitar and compose music. You can check out some of my musical projects here:
-- [SoundCloud](https://soundcloud.com/yourprofile)
-- [YouTube](https://youtube.com/yourprofile)
-
-Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on any projects. Happy coding! 😊
+I’m also the mind behind **Left-Handed Luminary**, where I create original music that fuses rock, gospel, and AI-driven production. Check it out:  
+- [YouTube](https://www.youtube.com/@left-handedluminary)  
+- [Bandcamp](https://left-handedluminary.bandcamp.com)  
+- [Spotify](https://open.spotify.com/artist/xyz)  
