@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I blend 25+ years of experience in software engine
 ## 🚀 About Me
 
 - 🔭 Currently focusing on enterprise modernization, cloud-native platforms, and open-source projects.  
-- 🌱 Learning advanced AI/ML techniques and orchestration frameworks.  
+- 🌱 Learning advanced AI/ML techniques and orchestration frameworks. Worked on Small Language Models with parsing of legacy code into tokens.
 - 👯 Open to collaborating on impactful modernization, security, and developer tooling projects.  
 - 💬 Ask me about C#, .NET, SQL, Azure, AWS GovCloud, CI/CD, and legacy-to-modern transformations.  
 - 📫 Reach me at: [brianbass@outlook.com](mailto:brianbass@outlook.com)  
@@ -31,8 +31,8 @@ Welcome to my GitHub profile. I blend 25+ years of experience in software engine
 - [Personal Website](https://left-handedluminary.com)  
 
 ## 🎸 Music + Code
-
-I’m also the mind behind **Left-Handed Luminary**, where I create original music that fuses rock, gospel, and AI-driven production. Check it out:  
+I’m also the mind behind **Left-Handed Luminary**, where I create original music that is a blend between all genres. Check it out:  
+- [My Music Socials](https://linktr.ee/leftyluminary)
 - [YouTube](https://www.youtube.com/@left-handedluminary)  
 - [Bandcamp](https://left-handedluminary.bandcamp.com)  
-- [Spotify](https://open.spotify.com/artist/xyz)  
+- [Spotify](https://open.spotify.com/artist/4GX2lg9hFwxtAfHexJ0kRE?si=dVUThHezQ6qgnNCJ8Q-P-w)
