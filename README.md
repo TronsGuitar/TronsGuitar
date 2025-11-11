@@ -20,10 +20,6 @@ Welcome to my GitHub profile. I blend 25+ years of experience in software engine
 - Git, GitHub  
 - VS Code  
 
-## 📈 GitHub Stats
-
-![TronsGuitar's GitHub stats](https://github-readme-stats.vercel.app/api?username=TronsGuitar&show_icons=true&theme=radical)
-
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/brianaldenbass)  
